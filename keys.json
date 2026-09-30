@@ -1,0 +1,12 @@
+{
+  "keys": {
+    "AMANO-LIFETIME-001": {
+      "code": "AMANO-LIFETIME-001",
+      "expires_in": "lifetime"
+    },
+    "AMANO-TRIAL-001": {
+      "code": "AMANO-TRIAL-001",
+      "expires_in": 86400
+    }
+  }
+}
